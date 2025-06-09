@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'lojaVeiculoAdmin.urls'
+ROOT_URLCONF = 'LojaVeiculoAdmin.urls'
 
 TEMPLATES = [
     {
@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'lojaVeiculoAdmin.wsgi.application'
+WSGI_APPLICATION = 'LojaVeiculoAdmin.wsgi.application'
 
 
 # Database
